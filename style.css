@@ -47,6 +47,10 @@ h1 {
     margin-right: 10px;
     cursor: pointer;
 }
+.media-btn:hover{
+    background: grey;
+    color: pink;
+}
 .media-btn .icones {
     width: 27px;
 }
